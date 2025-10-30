@@ -1,2 +1,2 @@
 # MachineLearningAutumn25
-Assignments for ADAML course
+Assignments for ADAML course - Maksim Kovalevskii
